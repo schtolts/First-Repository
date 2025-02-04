@@ -1,2 +1,6 @@
 Hello Git
 Изменения в main
+Новое изменение в feature-branch
+Изменения в feature-branch
+Новое изменение в feature-branch
+Изменения в feature-branch
