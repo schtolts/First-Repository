@@ -1,2 +1,3 @@
 Hello Git
 Новое изменение в feature-branch
+Изменения в feature-branch
